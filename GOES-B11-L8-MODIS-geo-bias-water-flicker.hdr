@@ -1,9 +1,9 @@
 ENVI
 description = {
-  ENVI File, Created [Tue Jun 24 11:30:35 2014]}
+  ENVI File, Created [Sat Oct 04 17:45:44 2014]}
 samples = 205
 lines   = 205
-bands   = 148
+bands   = 158
 header offset = 0
 file type = ENVI Standard
 data type = 4
