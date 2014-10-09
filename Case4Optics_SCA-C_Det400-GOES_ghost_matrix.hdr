@@ -1,8 +1,8 @@
 ENVI
 description = {
-  ENVI File, Created [Tue Jul 08 13:20:03 2014]}
+  ENVI File, Created [Sat Oct 04 17:46:32 2014]}
 samples = 155
-lines   = 70
+lines   = 75
 bands   = 1
 header offset = 0
 file type = ENVI Spectral Library
@@ -14,10 +14,7 @@ wavelength units = Unknown
 band names = {
  Case4Optics_SCA-C_Det400}
 spectra names = {
- Bias=-0.55607700; SCA:C; Detector=400; Lat=48.706903; Lon=-87.264496, 
- Bias=-0.60202456; SCA:C; Detector=400; Lat=48.691659; Lon=-87.270686, 
- Bias=-0.59877014; SCA:C; Detector=400; Lat=48.668795; Lon=-87.279966, 
- Bias=-0.60029602; SCA:C; Detector=400; Lat=48.645926; Lon=-87.289241, 
+ Bias=-0.62316513; SCA:C; Detector=400; Lat=48.638303; Lon=-87.292328, 
  Bias=-0.61402607; SCA:C; Detector=400; Lat=48.623057; Lon=-87.298504, 
  Bias=-0.66186380; SCA:C; Detector=400; Lat=48.600194; Lon=-87.307762, 
  Bias=-0.62035513; SCA:C; Detector=400; Lat=48.578171; Lon=-87.316673, 
@@ -67,6 +64,10 @@ spectra names = {
  Bias=-0.53320217; SCA:C; Detector=400; Lat=47.578139; Lon=-87.714597, 
  Bias=-0.52559376; SCA:C; Detector=400; Lat=47.555242; Lon=-87.723552, 
  Bias=-0.52114916; SCA:C; Detector=400; Lat=47.532346; Lon=-87.732501, 
+ Bias=-0.55337906; SCA:C; Detector=400; Lat=47.504363; Lon=-87.743435, 
+ Bias=-0.54436827; SCA:C; Detector=400; Lat=47.487401; Lon=-87.750059, 
+ Bias=-0.018061161; SCA:C; Detector=400; Lat=47.464506; Lon=-87.758999, 
+ Bias=-0.92142296; SCA:C; Detector=400; Lat=47.450092; Lon=-87.764623, 
  Bias=-0.42757416; SCA:C; Detector=400; Lat=47.322870; Lon=-87.814110, 
  Bias=-0.41238928; SCA:C; Detector=400; Lat=47.305060; Lon=-87.821022, 
  Bias=-0.38484001; SCA:C; Detector=400; Lat=47.282159; Lon=-87.829905, 
@@ -83,4 +84,8 @@ spectra names = {
  Bias=-0.33727455; SCA:C; Detector=400; Lat=47.031039; Lon=-87.926899, 
  Bias=-0.17765379; SCA:C; Detector=400; Lat=47.008979; Lon=-87.935383, 
  Bias=-0.10473061; SCA:C; Detector=400; Lat=46.986068; Lon=-87.944188, 
- Bias=-0.14718342; SCA:C; Detector=400; Lat=46.967397; Lon=-87.951354}
+ Bias=-0.11093807; SCA:C; Detector=400; Lat=46.963154; Lon=-87.952983, 
+ Bias=-0.067177773; SCA:C; Detector=400; Lat=46.940245; Lon=-87.961770, 
+ Bias=-0.066105366; SCA:C; Detector=400; Lat=46.917331; Lon=-87.970548, 
+ Bias=-0.71380234; SCA:C; Detector=400; Lat=46.894420; Lon=-87.979321, 
+ Bias=-0.36982870; SCA:C; Detector=400; Lat=46.881694; Lon=-87.984193}
